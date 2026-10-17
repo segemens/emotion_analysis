@@ -1,0 +1,5 @@
+deepface
+opencv-python==4.10.0.84
+matplotlib
+pandas
+numpy<2
