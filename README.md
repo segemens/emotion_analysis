@@ -4,7 +4,7 @@ Real-time facial emotion analysis using DeepFace and OpenCV. The program reads
 your webcam, estimates emotion scores every few frames, and at the end saves
 the emotion history as a CSV file and a graph.
 
-![Emotion graph](emotion_graph.png)
+![Emotion graph](emotions_graph.png)
 
 ## Features
 
